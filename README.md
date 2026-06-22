@@ -46,5 +46,5 @@ Scan complete — 1 open port(s) found out of 18 checked.
 ```
 This is how OPENING and CLOSING of Ports work. It is as simple as recieving a call and does't require high level cybersecurity skills. It is all based on Computer Networking System.
 
-# Thank You For Reading
+# Thank You For Reading.
 ## Author- Lalit Sharma 
